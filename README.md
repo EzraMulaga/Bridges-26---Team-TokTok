@@ -15,7 +15,8 @@ information for other patient who may not be able to let them know in that situa
 - Having the information on paper on the patient at all time.
 
 ## Solution Overview
-- Use a QR Code that can be placed within a Waterproo
+- Use a QR Code that can be placed within a Waterproof pouch.
+- Access emergancy inforamtion via online pages.
 
 ## PNG Total populations
  - with NID
