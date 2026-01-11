@@ -1,0 +1,91 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    margin: 0;
+    background: #f1f3f6;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+.header {
+    background: #003366;
+    color: white;
+    padding: 18px;
+    border-radius: 8px;
+    margin-bottom: 16px;
+}
+
+.header h1 {
+    margin: 0;
+}
+
+.patient-id {
+    font-size: 0.85rem;
+    opacity: 0.9;
+}
+
+.card {
+    background: white;
+    padding: 16px;
+    border-radius: 8px;
+    margin-bottom: 14px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.08);
+}
+
+.card h2 {
+    margin-top: 0;
+    font-size: 1.1rem;
+    color: #333;
+}
+
+.card.critical {
+    border-left: 6px solid #b30000;
+    background: #fff5f5;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    padding: 6px 0;
+    font-size: 0.95rem;
+}
+
+.row span {
+    font-weight: bold;
+    color: #555;
+}
+
+ul {
+    margin: 8px 0 0 18px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 8px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    font-size: 0.9rem;
+    text-align: left;
+}
+
+th {
+    background: #f0f2f5;
+}
+
+.footer {
+    text-align: center;
+    font-size: 0.8rem;
+    color: #666;
+    margin-top: 20px;
+}
