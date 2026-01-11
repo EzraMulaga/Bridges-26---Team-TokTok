@@ -15,7 +15,7 @@ information for other patient who may not be able to let them know in that situa
 - Having the information on paper on the patient at all time.
 
 ## Solution Overview
-
+- Use a QR Code that can be placed within a Waterproo
 
 ## PNG Total populations
  - with NID
