@@ -2,35 +2,32 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Medical Practitioner Login</title>
+    <title>Medical Practitioner Login (Demo)</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="login.css">
 </head>
 <body>
 
-    <div class="login-card">
-        <h1>Practitioner Login</h1>
-        <p class="subtitle">
-            Authorized medical professionals only
-        </p>
+<div class="login-card">
+    <h1>Practitioner Login</h1>
+    <p class="subtitle">Demo mode – no authentication</p>
 
-        <form action="full-history.html" method="GET">
-            <!-- Preserve patient context -->
-            <input type="hidden" name="patientId" value="JD-1995-0314">
+    <!-- Form always redirects to full-history.html -->
+    <form action="full-history.html" method="GET">
 
-            <label for="practitionerId">Practitioner ID</label>
-            <input type="text" id="practitionerId" placeholder="MP-1029" required>
+        <label>Practitioner ID</label>
+        <input type="text" placeholder="Any value" required>
 
-            <label for="password">Password</label>
-            <input type="password" id="password" placeholder="••••••••" required>
+        <label>Password</label>
+        <input type="password" placeholder="Any value" required>
 
-            <button type="submit">Login</button>
-        </form>
+        <button type="submit">Enter</button>
+    </form>
 
-        <p class="note">
-            Access attempts are logged and monitored.
-        </p>
-    </div>
+    <p class="note">
+        This is a demonstration system. Credentials are not verified.
+    </p>
+</div>
 
 </body>
 </html>
