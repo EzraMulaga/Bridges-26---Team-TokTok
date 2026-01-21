@@ -1,5 +1,17 @@
 # Emergency Info Holder
+
+
 ## BRIDGES Summer School 2026 – Team TokTok
+
+
+## Project Status
+
+This repository contains the original prototype developed during the
+BRIDGES Summer School 2026 hackathon.
+
+Active development is continuing in a separate repository:
+➡️ [https://github.com/Ez/NEW-REPO-NAME](https://github.com/EzraMulaga/Digital-Clinic-Book)
+
 
 ### Overview
 
