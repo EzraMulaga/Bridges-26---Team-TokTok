@@ -2,6 +2,11 @@
 
 
 ## BRIDGES Summer School 2026 – Team TokTok
+> ⚠️ Demo Prototype (Mock Data)
+>
+> This is a vertical-slice MVP demo built for a hackathon.
+> It uses mock emergency/medical data and a placeholder auth step to
+> demonstrate the intended workflow and access boundaries.
 
 
 ## Project Status
